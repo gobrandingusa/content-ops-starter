@@ -52,7 +52,7 @@
         {
             "label": "Contact",
             "altText": "Contact",
-            "url": "/Contact",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
