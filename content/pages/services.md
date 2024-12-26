@@ -106,7 +106,7 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    variant: big-list
+    variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
