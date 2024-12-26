@@ -30,15 +30,6 @@
             "type": "Link"
         },
         {
-            "label": "Contact",
-            "altText": "Contact",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
@@ -56,6 +47,15 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
