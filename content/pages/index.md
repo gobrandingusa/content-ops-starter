@@ -56,7 +56,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 59
       url: /images/bg-mod1.png
   - subtitle: Brands worked with us..
     images:
