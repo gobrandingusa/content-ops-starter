@@ -71,7 +71,7 @@ sections:
         url: /images/rangle-logo.svg
         altText: Rangle logo
     motion: move-to-left
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
