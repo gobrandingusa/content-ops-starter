@@ -212,6 +212,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    showExcerpt: false
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
