@@ -606,7 +606,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    variant: small-list
+    variant: toggle-list
     colors: bg-light-fg-dark
     styles:
       self:
