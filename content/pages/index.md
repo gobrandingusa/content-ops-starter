@@ -36,7 +36,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/bg-mod1.png
+      url: /images/abstract-background.svg
   - subtitle: Brands worked with us..
     images:
       - url: /images/empathy-logo.svg
