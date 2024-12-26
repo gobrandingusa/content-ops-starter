@@ -23,7 +23,7 @@
         {
             "type": "SubNav",
             "label": "Services",
-            "altText": "Dropdown",
+            "altText": "Services",
             "links": [
                 {
                     "type": "Link",
