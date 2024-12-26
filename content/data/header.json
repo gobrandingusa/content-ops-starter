@@ -21,18 +21,18 @@
             "type": "Link"
         },
         {
-            "label": "Services",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Work",
+            "altText": "Careers page",
+            "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Work",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Services",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
