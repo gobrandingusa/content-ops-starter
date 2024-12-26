@@ -27,7 +27,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Services",
                     "altText": "",
                     "url": "/services",
                     "showIcon": false,
