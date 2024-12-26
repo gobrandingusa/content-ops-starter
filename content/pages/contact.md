@@ -18,10 +18,9 @@ sections:
       text: Let´s get in Touch
       color: text-dark
     subtitle: 'Tell us what you need, we''ll take care of the rest.'
-    text: |
-      ### **We're ready to help!**
+    text: |+
+      ## **We're ready to help! Request your quote now!**
 
-      ### **Request your quote now!**
     actions: []
     media:
       type: FormBlock
