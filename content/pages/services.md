@@ -107,7 +107,7 @@ sections:
           textAlign: center
     elementId: ''
     variant: big-list
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
