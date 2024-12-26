@@ -31,6 +31,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: /
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: FormBlock
       fields:
