@@ -47,7 +47,7 @@ sections:
           - pb-16
           - pr-16
   - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
+    subtitle: Brands that worked with us...
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
