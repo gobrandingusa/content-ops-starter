@@ -94,7 +94,7 @@ sections:
       type: Badge
       label: Contact Us
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
