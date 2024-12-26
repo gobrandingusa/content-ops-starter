@@ -93,7 +93,7 @@ sections:
     badge:
       type: Badge
       label: Contact Us
-      color: text-neutral
+      color: text-primary
     colors: bg-light-fg-dark
   - type: DividerSection
     title: Divider
