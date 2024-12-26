@@ -22,7 +22,7 @@
         },
         {
             "label": "Contact",
-            "altText": "Blog",
+            "altText": "Contact",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
