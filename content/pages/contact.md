@@ -17,7 +17,7 @@ sections:
       type: TitleBlock
       text: Let´s get in Touch
       color: text-dark
-    subtitle: Work Together
+    subtitle: 'Tell us what you need, we''ll take care of the rest.'
     text: |+
       ## **We're ready to help! Request your quote now!**
 
