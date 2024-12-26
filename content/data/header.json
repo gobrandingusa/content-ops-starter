@@ -51,7 +51,7 @@
         {
             "label": "Contact",
             "altText": "Contact",
-            "url": "/blog",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
