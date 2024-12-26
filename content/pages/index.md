@@ -54,7 +54,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: cover
-      backgroundPosition: ''
+      backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/bg-mod1.png
