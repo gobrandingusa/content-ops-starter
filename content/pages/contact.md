@@ -77,26 +77,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: false
-    showDate: false
-    showAuthor: false
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    showExcerpt: false
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
