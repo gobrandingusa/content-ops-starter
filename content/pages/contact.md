@@ -199,7 +199,7 @@ sections:
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
     showThumbnail: false
-    showDate: true
+    showDate: false
     showAuthor: true
     actions: []
     variant: three-col-grid
