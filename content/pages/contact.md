@@ -21,7 +21,16 @@ sections:
     text: |+
       ## ***We're ready to help! Request your quote now!***
 
-    actions: []
+    actions:
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: /gobranding-usa
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: FormBlock
       fields:
