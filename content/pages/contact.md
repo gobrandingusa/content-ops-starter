@@ -19,7 +19,9 @@ sections:
       color: text-dark
     subtitle: 'Tell us what you need, we''ll take care of the rest.'
     text: |+
-      ### **We're ready to help! Request your quote now!**
+      ### **We're ready to help!** 
+
+      **Request your quote now!**
 
     actions: []
     media:
